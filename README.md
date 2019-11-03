@@ -17,9 +17,9 @@ Through a strong emphasis on data centric computing, quantitative critical think
 | Data Cleaning  | PCA  |Feature Engineering and Bias-Variance | Random Forests, Runtime Analysis, Modeling Overview  |
 | Visualization  | Statistical Inference: Random Variables and Estimators  | Cross-Validation and Regularization  | Ethics & Conclusion |
 | EDA & Working with Text  | Statistical Inference: Risk and Loss Functions  | Logistic Regression  | |
-| EDA & Working with Text  | Statistical Inference: Risk and Loss Functions  | Classifier Evaluation and Fitting  | |
-| EDA & Working with Text  | Statistical Inference: Risk and Loss Functions  | Decision Boundaries, Modeling Considerations ||
-| EDA & Working with Text  | Statistical Inference: Risk and Loss Functions  | Inference for Modeling  | |
+|   |   | Classifier Evaluation and Fitting  | |
+|   |   | Decision Boundaries, Modeling Considerations ||
+|   |   | Inference for Modeling  | |
 
 > **Prerequisites**
 
