@@ -9,6 +9,7 @@ This intermediate level class bridges between Data8 and upper division computer 
 Through a strong emphasis on data centric computing, quantitative critical thinking, and exploratory data analysis, this class covers key principles and techniques of data science. These include languages for transforming, querying and analyzing data; algorithms for machine learning methods including regression, classification and clustering; principles behind creating informative data visualizations; statistical concepts of measurement error and prediction; and techniques for scalable data processing.
 
 > **Learning Objectives**
+
 | Week 1-2  | Week 3-4 | Week 5-6 | Week 7-8 |
 | ------------- | ------------- | ------------- | ------------- |
 | Introduction to Data Science, Logistics, Study Design  | SQL  | Linear Regression  | Big Data and Ray (Guest Lecturer: Robert Nishihara)|
